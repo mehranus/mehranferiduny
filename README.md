@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehranferiduny
 - 👀 I’m interested in develope backendweb with  nodejs
 - 🌱 I’m currently learning websocket
-- 💞️ I’m looking to collaborate on backend developer
+- 🚀 I’m looking to collaborate on backend web&app developer
 
 
 <!---
