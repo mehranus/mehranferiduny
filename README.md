@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm mehran feriduni</h1>
 <h3 align="center">A passionate back-end developer from Iran</h3>
 
@@ -24,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehranferiduny&show_icons=true&locale=en&layout=compact" alt="mehranferiduny" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehranferiduny&show_icons=true&locale=en" alt="mehranferiduny" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehranferiduny&" alt="mehranferiduny" /></p>
 
