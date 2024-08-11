@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranferiduny&label=Profile%20views&color=0e75b6&style=flat" alt="mehranferiduny" /> </p>
 
 - 🔭 I’m currently working on [parantez](https://github.com/mehranferiduny/parantez)
+  
+-  🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **nestjs express socket**
 
