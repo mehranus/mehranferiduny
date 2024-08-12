@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **m3hr4nus@gmail.com**
 
-- ⚡ Fun fact **Programming - composing - editing - GYM**
+- ⚡ Fun fact **Programming - Composing - Editing - GYM - Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align = "left" alt="showme" width= "50" src="https://cdn.dribbble.com/users/707812/screenshots/3834870/loader-dribbble.gif"/>+989115654971
+  <img align = "left" alt="showme" width= "40" src="https://cdn.dribbble.com/users/707812/screenshots/3834870/loader-dribbble.gif"/>+989115654971
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
