@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m3hr4nus@gmail.com**
 
-- ⚡ Fun fact **Programming - Composing - Editing - GYM - Football**
+- ⚡ Fun fact **Programming -GYM - Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
